@@ -1,3 +1,4 @@
 things to study in git
 1) pull request 
 2)   git push --set-upstream origin branch1
+3) diff tools.
