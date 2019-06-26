@@ -10,3 +10,4 @@ things to study in git
 9) options for rollback and strip 
 10) same operations to be done in eclipse
 11) git cherrypick
+12) changeset tag
