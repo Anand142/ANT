@@ -4,3 +4,9 @@ things to study in git
 3) merge diff tools.
 4) push tags
 5) repo commit graph 
+6) merge request
+7) branch diff
+8) changeset diff
+9) options for rollback and strip 
+10) same operations to be done in eclipse
+11) git cherrypick
