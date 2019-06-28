@@ -9,4 +9,4 @@ f
 g
 
 
-ANT is a build software..It is widely used in IT industry. The main elements are project, target. Merge conflict. Attributes- project name
+ANT is a build software...It is widely used in IT industry. The main elements are project, target. Merge conflict. Attributes- project name
