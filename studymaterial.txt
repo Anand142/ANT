@@ -11,3 +11,4 @@ things to study in git
 10) same operations to be done in eclipse
 11) git cherrypick
 12) changeset tag
+13) diff between checkout and revert
